@@ -595,7 +595,7 @@ rpds-py==0.17.1
 rsa==4.9
 ruff==0.1.11
 s3fs==2023.12.2
-s3transfer==0.8.2
+s3transfer==0.10.0
 sarif-om==1.0.4
 scramp==1.4.4
 scrapbook==0.5.0
